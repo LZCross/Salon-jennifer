@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "María López",
+    "comentario": "Excelente servicio y trato súper amable. ¡Volveré!",
+    "estrellas": 5
+  },
+  {
+    "nombre": "Carla Gómez",
+    "comentario": "El color y el peinado quedaron perfectos.",
+    "estrellas": 5
+  },
+  {
+    "nombre": "Ana Pérez",
+    "comentario": "Ambiente agradable y resultado profesional.",
+    "estrellas": 4
+  }
+]
